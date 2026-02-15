@@ -1,4 +1,4 @@
-# DeclaraIRPF
+# Declaração IRPF
 📑 Ferramenta de Apoio à Declaração de Imposto de Renda
 Este projeto foi desenvolvido como parte de um desafio da DIO para aplicar conceitos de Excel na criação de uma ferramenta prática de organização de dados para a declaração de imposto de renda.
 
